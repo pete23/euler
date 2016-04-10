@@ -1,13 +1,13 @@
 # euler
 
-A Clojure library designed to ... well, that part is up to you.
+Pete's working project for cracking euler. Unfortunately missing some history... :-(
 
 ## Usage
 
-FIXME
+At your own risk.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2016 Pete Windle
 
 Distributed under the Eclipse Public License, the same as Clojure.
